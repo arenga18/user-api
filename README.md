@@ -55,19 +55,19 @@ DB_PASSWORD=
 composer install
 ```
 
-### **4️⃣ Generate App Key**
+### **5️⃣ Generate App Key**
 
 ```sh
 php artisan key:generate
 ```
 
-### **5️⃣ Setup Database**
+### **6️⃣ Setup Database**
 
 ```sh
 php artisan migrate
 ```
 
-### **6️⃣ Jalankan Server**
+### **7️⃣ Jalankan Server**
 
 ```sh
 php artisan serve
